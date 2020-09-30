@@ -8,4 +8,3 @@ Layers ending in `-single` break boundaries into many Polygon features instead o
 
 Use QGIS or [simplify-geojson](https://github.com/maxogden/simplify-geojson) to further simplify to your needs.
 
-# geojsons-416
